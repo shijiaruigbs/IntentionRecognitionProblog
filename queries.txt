@@ -1,0 +1,4 @@
+% -------- Queries --------
+query(iMakeBreakfast(tom)).
+query(iPackLunch(tom)).
+query(iMakeDinner(tom)).

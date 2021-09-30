@@ -1,0 +1,1500 @@
+(lunch_packed)
+midday
+(take plate), (take knife), (take peanut_butter), (take lunch_bag)
+(counter_wiped)
+midday
+(take cloth)
+(counter_wiped)
+evening
+(take cloth)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(made_breakfast)
+morning
+(use toaster), (take butter), (take knife), (take milk), (take water_jug), (take keetle), (take cloth), (take sugar), (take cup), (take bowl), (take cereal), (take spoon)
+(made_dinner)
+evening
+(take salad_tosser), (take bowl), (take dressing), (take plate)
+(made_dinner)
+morning
+(take plate), (take bread), (take cheese), (take bowl), (take dressing), (take salad_tosser)
+(taken_medicine)
+evening
+(take medicine)
+(lunch_packed)
+midday
+(take bread), (take peanut_butter), (take plate), (take knife)
+(made_breakfast)
+afternoon
+(take cloth), (take tea_bag), (take cup), (take water_jug), (take cloth), (take bread), (use toaster), (take butter), (take knife), (take milk), (take bowl), (take cereal), (take spoon)
+(made_dinner)
+midday
+(take plate), (take bowl), (take salad_tosser), (take plate), (take cheese)
+(made_breakfast)
+midday
+(take milk), (take sugar), (take water_jug), (take cloth), (take bread), (use toaster), (take butter), (take knife), (take bowl), (take milk), (take cereal), (take spoon)
+(taken_medicine)
+afternoon
+(take medicine)
+(drank_juice)
+midday
+(take cup), (take juice)
+(made_breakfast)
+morning
+(take coffee), (take cup), (take water_jug), (take keetle), (take cloth), (take milk), (take knife), (take butter), (take cereal), (take milk), (take bowl), (take spoon)
+(made_breakfast)
+evening
+(take sugar), (take cup), (take water_jug), (take keetle), (take cloth), (take bread), (take knife), (take butter), (take milk), (take bowl), (take cereal), (take spoon)
+(taken_medicine)
+evening
+(take medicine)
+(lunch_packed)
+midday
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(taken_medicine)
+evening
+(take medicine)
+(lunch_packed)
+morning
+(take knife), (take bread), (take peanut_butter), (take lunch_bag)
+(plants_tended)
+afternoon
+(take water_jug), (use plants)
+(taken_medicine)
+midday
+(take medicine)
+(taken_medicine)
+evening
+(take medicine)
+(counter_wiped)
+evening
+(take cloth)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(watching_movie)
+morning
+(take popcorn), (use microwave)
+(drank_juice)
+evening
+(take juice), (take cup)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(drank_juice)
+afternoon
+(take cup), (take juice)
+(made_breakfast)
+evening
+(take creamer), (take sugar), (take water_jug), (take keetle), (take cloth), (take coffee), (take cup), (take bread), (take knife), (take milk), (take cereal), (take bowl)
+(lunch_packed)
+afternoon
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(plants_tended)
+afternoon
+(take water_jug), (use plants)
+(taken_medicine)
+midday
+(take medicine)
+(lunch_packed)
+morning
+(take peanut_butter), (take plate), (take knife), (take lunch_bag)
+(taken_medicine)
+afternoon
+(take medicine)
+(drank_juice)
+evening
+(take juice), (take cup)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(counter_wiped)
+evening
+(take cloth)
+(made_dinner)
+evening
+(take dressing), (take plate), (take bowl), (take salad_tosser)
+(made_breakfast)
+evening
+(take bread), (use toaster), (take knife), (take butter), (take tea_bag), (take sugar), (take keetle), (take cloth), (take cup), (take cereal), (take milk), (take spoon)
+(lunch_packed)
+midday
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take knife), (take butter), (take cup), (take water_jug), (take cloth), (take milk), (take milk), (take bowl), (take cereal), (take spoon)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(watching_movie)
+midday
+(take popcorn), (use microwave)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(taken_medicine)
+evening
+(take medicine)
+(drank_juice)
+midday
+(take juice), (take cup)
+(counter_wiped)
+evening
+(take cloth)
+(taken_medicine)
+evening
+(take medicine)
+(made_breakfast)
+midday
+(take keetle), (take tea_bag), (take cup), (take sugar), (take milk), (take bread), (use toaster), (take knife), (take butter), (take cereal), (take bowl), (take milk)
+(made_breakfast)
+afternoon
+(take cup), (take keetle), (take cloth), (take sugar), (take coffee), (take milk), (take bread), (take knife), (take cereal), (take bowl), (take milk), (take spoon)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(made_breakfast)
+midday
+(take bread), (use toaster), (take butter), (take sugar), (take coffee), (take milk), (take water_jug), (take keetle), (take cloth), (take cereal), (take bowl), (take milk)
+(lunch_packed)
+afternoon
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(lunch_packed)
+morning
+(take knife), (take plate), (take peanut_butter), (take lunch_bag)
+(made_breakfast)
+midday
+(use toaster), (take knife), (take butter), (take water_jug), (take keetle), (take cloth), (take cup), (take coffee), (take sugar), (take bowl), (take milk), (take cereal)
+(made_dinner)
+afternoon
+(take plate), (take bread), (take cheese)
+(lunch_packed)
+morning
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(made_breakfast)
+evening
+(take water_jug), (take keetle), (take cloth), (take cup), (take sugar), (take tea_bag), (take bread), (use toaster), (take knife), (take butter), (take bowl), (take spoon)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take knife), (take bread)
+(taken_medicine)
+afternoon
+(take medicine)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(plants_tended)
+morning
+(take water_jug), (use plants)
+(counter_wiped)
+evening
+(take cloth)
+(counter_wiped)
+evening
+(take cloth)
+(drank_juice)
+afternoon
+(take cup), (take juice)
+(drank_juice)
+evening
+(take juice), (take cup)
+(counter_wiped)
+morning
+(take cloth)
+(lunch_packed)
+morning
+(take knife), (take plate), (take peanut_butter), (take bread)
+(drank_juice)
+morning
+(take cup), (take juice)
+(drank_juice)
+afternoon
+(take cup), (take juice)
+(taken_medicine)
+evening
+(take medicine)
+(made_dinner)
+evening
+(take salad_tosser), (take bowl), (take plate), (take dressing)
+(counter_wiped)
+evening
+(take cloth)
+(made_dinner)
+evening
+(take salad_tosser), (take bowl), (take dressing), (take plate)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese), (take bowl), (take plate), (take salad_tosser)
+(made_breakfast)
+evening
+(take tea_bag), (take sugar), (take water_jug), (take keetle), (take cloth), (take cup), (take bread), (use toaster), (take butter), (take knife), (take cereal), (take milk)
+(made_breakfast)
+evening
+(take cup), (take coffee), (take water_jug), (take keetle), (take cloth), (take bread), (use toaster), (take knife), (take butter), (take milk), (take bowl), (take cereal)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_breakfast)
+afternoon
+(take cup), (take milk), (take coffee), (take water_jug), (take keetle), (take bread), (use toaster), (take butter), (take milk), (take bowl), (take cereal), (take spoon)
+(made_breakfast)
+evening
+(use toaster), (take knife), (take butter), (take keetle), (take cloth), (take tea_bag), (take water_jug), (take keetle), (take cup), (take bowl), (take cereal), (take milk), (take spoon)
+(made_breakfast)
+midday
+(take tea_bag), (take water_jug), (take keetle), (take cloth), (take cup), (take water_jug), (take cloth), (take bread), (use toaster), (take butter), (take bowl), (take cereal), (take spoon)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(taken_medicine)
+afternoon
+(take medicine)
+(counter_wiped)
+morning
+(take cloth)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_breakfast)
+afternoon
+(take water_jug), (take keetle), (take cloth), (take tea_bag), (take cup), (take sugar), (take bread), (use toaster), (take cereal), (take bowl), (take milk), (take spoon)
+(made_breakfast)
+evening
+(take creamer), (take keetle), (take sugar), (take cup), (take bread), (use toaster), (take knife), (take butter), (take cereal), (take milk), (take bowl), (take spoon)
+(lunch_packed)
+afternoon
+(take lunch_bag), (take plate), (take knife), (take peanut_butter)
+(made_breakfast)
+morning
+(take bread), (take butter), (take cup), (take keetle), (take cloth), (take milk), (take tea_bag), (take sugar), (take bowl), (take cereal), (take milk), (take spoon)
+(made_breakfast)
+evening
+(take sugar), (take cup), (take keetle), (take cloth), (take coffee), (take bread), (use toaster), (take knife), (take butter), (take cereal), (take bowl), (take spoon)
+(taken_medicine)
+evening
+(take medicine)
+(drank_juice)
+morning
+(take cup), (take juice)
+(taken_medicine)
+midday
+(take medicine)
+(counter_wiped)
+morning
+(take cloth)
+(lunch_packed)
+midday
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(watching_movie)
+afternoon
+(take popcorn), (use microwave)
+(plants_tended)
+morning
+(take water_jug), (use plants)
+(plants_tended)
+evening
+(take water_jug), (use plants)
+(made_breakfast)
+afternoon
+(take coffee), (take milk), (take water_jug), (take keetle), (take cloth), (take sugar), (use toaster), (take butter), (take bowl), (take cereal), (take milk), (take spoon)
+(watching_movie)
+morning
+(take popcorn), (use microwave)
+(plants_tended)
+evening
+(take water_jug), (use plants)
+(made_dinner)
+afternoon
+(take salad_tosser), (take plate), (take bowl)
+(made_breakfast)
+morning
+(take coffee), (take creamer), (take water_jug), (take keetle), (take cup), (take bread), (take butter), (take knife), (take milk), (take cereal), (take bowl), (take spoon)
+(made_breakfast)
+midday
+(take knife), (take butter), (take sugar), (take milk), (take tea_bag), (take cup), (take water_jug), (take keetle), (take cloth), (take cereal), (take bowl), (take spoon)
+(taken_medicine)
+midday
+(take medicine)
+(taken_medicine)
+evening
+(take medicine)
+(counter_wiped)
+midday
+(take cloth)
+(counter_wiped)
+evening
+(take cloth)
+(plants_tended)
+evening
+(take water_jug), (use plants)
+(drank_juice)
+morning
+(take cup), (take juice)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(lunch_packed)
+morning
+(take knife), (take peanut_butter), (take bread), (take plate)
+(plants_tended)
+evening
+(take water_jug), (use plants)
+(made_dinner)
+evening
+(take plate), (take bowl), (take salad_tosser)
+(counter_wiped)
+evening
+(take cloth)
+(drank_juice)
+evening
+(take juice), (take cup)
+(made_dinner)
+midday
+(take dressing), (take plate), (take bowl), (take plate), (take bread), (take cheese)
+(taken_medicine)
+evening
+(take medicine)
+(lunch_packed)
+morning
+(take plate), (take bread), (take knife), (take peanut_butter)
+(made_dinner)
+afternoon
+(take plate), (take bread), (take cheese)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(lunch_packed)
+afternoon
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(made_breakfast)
+afternoon
+(take coffee), (take water_jug), (take keetle), (take cloth), (take cup), (take sugar), (use toaster), (take knife), (take cereal), (take milk), (take bowl), (take spoon)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(made_dinner)
+morning
+(take salad_tosser), (take dressing), (take plate), (take bowl)
+(lunch_packed)
+morning
+(take lunch_bag), (take peanut_butter), (take plate), (take knife)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_dinner)
+morning
+(take bread), (take cheese), (take salad_tosser), (take bowl), (take plate)
+(taken_medicine)
+evening
+(take medicine)
+(taken_medicine)
+afternoon
+(take medicine)
+(plants_tended)
+afternoon
+(take water_jug), (use plants)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(plants_tended)
+morning
+(take water_jug), (use plants)
+(lunch_packed)
+midday
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take knife), (take cup), (take milk), (take keetle), (take cloth), (take coffee), (take sugar), (take bowl), (take milk), (take spoon)
+(made_breakfast)
+evening
+(take sugar), (take water_jug), (take keetle), (take cloth), (take cup), (take bread), (use toaster), (take knife), (take butter), (take bowl), (take milk), (take spoon)
+(made_breakfast)
+midday
+(take water_jug), (take keetle), (take sugar), (take creamer), (take cup), (take bread), (use toaster), (take butter), (take cereal), (take bowl), (take milk), (take spoon)
+(lunch_packed)
+afternoon
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(made_breakfast)
+evening
+(take tea_bag), (take water_jug), (take keetle), (take cloth), (take keetle), (take cup), (take bread), (use toaster), (take knife), (take butter), (take bowl), (take cereal), (take milk)
+(made_breakfast)
+midday
+(take water_jug), (take keetle), (take cloth), (take cup), (take water_jug), (take keetle), (take cloth), (take bread), (use toaster), (take butter), (take knife), (take cereal), (take bowl)
+(drank_juice)
+midday
+(take juice), (take cup)
+(drank_juice)
+evening
+(take juice), (take cup)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_breakfast)
+afternoon
+(take sugar), (take creamer), (take cup), (take water_jug), (take cloth), (take bread), (use toaster), (take knife), (take butter), (take cereal), (take milk), (take bowl)
+(lunch_packed)
+midday
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(counter_wiped)
+midday
+(take cloth)
+(taken_medicine)
+afternoon
+(take medicine)
+(counter_wiped)
+evening
+(take cloth)
+(made_breakfast)
+evening
+(take bread), (use toaster), (take butter), (take sugar), (take water_jug), (take keetle), (take cloth), (take tea_bag), (take milk), (take bowl), (take cereal), (take spoon)
+(drank_juice)
+evening
+(take cup), (take juice)
+(made_breakfast)
+evening
+(take bread), (use toaster), (take sugar), (take water_jug), (take keetle), (take cloth), (take cup), (take tea_bag), (take milk), (take cereal), (take bowl), (take spoon)
+(counter_wiped)
+evening
+(take cloth)
+(lunch_packed)
+morning
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(made_breakfast)
+evening
+(take milk), (take water_jug), (take keetle), (take cloth), (take sugar), (use toaster), (take butter), (take knife), (take milk), (take bowl), (take cereal), (take spoon)
+(taken_medicine)
+evening
+(take medicine)
+(drank_juice)
+afternoon
+(take juice), (take cup)
+(watching_movie)
+afternoon
+(take popcorn), (use microwave)
+(drank_juice)
+afternoon
+(take cup), (take juice)
+(counter_wiped)
+morning
+(take cloth)
+(made_dinner)
+afternoon
+(take plate), (take bread), (take cheese)
+(lunch_packed)
+morning
+(take lunch_bag), (take knife), (take plate), (take peanut_butter)
+(plants_tended)
+evening
+(take water_jug), (use plants)
+(drank_juice)
+midday
+(take juice), (take cup)
+(lunch_packed)
+morning
+(take knife), (take plate), (take bread), (take peanut_butter)
+(made_breakfast)
+afternoon
+(take sugar), (take coffee), (take water_jug), (take cloth), (take cup), (take bread), (use toaster), (take butter), (take milk), (take cereal), (take bowl), (take spoon)
+(counter_wiped)
+morning
+(take cloth)
+(counter_wiped)
+afternoon
+(take cloth)
+(made_breakfast)
+afternoon
+(take creamer), (take sugar), (take cup), (take coffee), (take water_jug), (take bread), (use toaster), (take knife), (take milk), (take bowl), (take cereal), (take spoon)
+(drank_juice)
+morning
+(take cup), (take juice)
+(taken_medicine)
+evening
+(take medicine)
+(made_breakfast)
+afternoon
+(use toaster), (take butter), (take knife), (take cup), (take milk), (take water_jug), (take keetle), (take sugar), (take tea_bag), (take cereal), (take bowl), (take spoon)
+(counter_wiped)
+evening
+(take cloth)
+(drank_juice)
+morning
+(take juice), (take cup)
+(made_dinner)
+evening
+(take salad_tosser), (take bowl), (take plate), (take bread), (take cheese)
+(lunch_packed)
+morning
+(take lunch_bag), (take peanut_butter), (take bread), (take plate)
+(drank_juice)
+midday
+(take cup), (take juice)
+(made_breakfast)
+evening
+(take bread), (use toaster), (take butter), (take knife), (take cup), (take water_jug), (take cloth), (take sugar), (take creamer), (take bowl), (take cereal), (take spoon)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(taken_medicine)
+evening
+(take medicine)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(made_dinner)
+evening
+(take bowl), (take salad_tosser), (take plate), (take dressing)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(watching_movie)
+morning
+(take popcorn), (use microwave)
+(lunch_packed)
+midday
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(made_breakfast)
+evening
+(take coffee), (take cup), (take sugar), (take creamer), (take cloth), (take bread), (use toaster), (take knife), (take butter), (take cereal), (take milk), (take spoon)
+(lunch_packed)
+morning
+(take bread), (take knife), (take plate), (take lunch_bag)
+(watching_movie)
+afternoon
+(take popcorn), (use microwave)
+(taken_medicine)
+afternoon
+(take medicine)
+(counter_wiped)
+evening
+(take cloth)
+(lunch_packed)
+midday
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(counter_wiped)
+evening
+(take cloth)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take butter), (take knife), (take water_jug), (take cloth), (take keetle), (take cloth), (take tea_bag), (take cereal), (take milk), (take bowl), (take spoon)
+(counter_wiped)
+evening
+(take cloth)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(drank_juice)
+morning
+(take juice), (take cup)
+(made_breakfast)
+evening
+(take bread), (use toaster), (take knife), (take butter), (take cup), (take coffee), (take sugar), (take water_jug), (take keetle), (take cloth), (take bowl), (take spoon)
+(made_dinner)
+evening
+(take plate), (take salad_tosser), (take plate), (take bread), (take cheese)
+(counter_wiped)
+evening
+(take cloth)
+(drank_juice)
+evening
+(take cup), (take juice)
+(drank_juice)
+morning
+(take cup), (take juice)
+(lunch_packed)
+morning
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(made_breakfast)
+afternoon
+(take water_jug), (take keetle), (take cloth), (take milk), (take cup), (take coffee), (take sugar), (take bread), (take butter), (take knife), (take bowl), (take cereal)
+(taken_medicine)
+evening
+(take medicine)
+(counter_wiped)
+evening
+(take cloth)
+(taken_medicine)
+evening
+(take medicine)
+(made_breakfast)
+evening
+(take bread), (use toaster), (take knife), (take butter), (take cup), (take keetle), (take cloth), (take water_jug), (take keetle), (take cloth), (take tea_bag), (take milk), (take spoon)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(made_breakfast)
+morning
+(take tea_bag), (take milk), (take water_jug), (take keetle), (take cloth), (take cup), (take bread), (use toaster), (take milk), (take bowl), (take cereal), (take spoon)
+(counter_wiped)
+afternoon
+(take cloth)
+(watching_movie)
+midday
+(take popcorn), (use microwave)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take knife), (take creamer), (take cup), (take water_jug), (take cloth), (take sugar), (take coffee), (take cereal), (take milk), (take spoon)
+(drank_juice)
+evening
+(take juice), (take cup)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(drank_juice)
+morning
+(take juice), (take cup)
+(plants_tended)
+morning
+(take water_jug), (use plants)
+(made_dinner)
+evening
+(take salad_tosser), (take plate), (take bowl), (take bread), (take cheese)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_breakfast)
+evening
+(take milk), (take coffee), (take water_jug), (take keetle), (take cloth), (take sugar), (take bread), (use toaster), (take butter), (take cereal), (take milk), (take spoon)
+(counter_wiped)
+morning
+(take cloth)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take bread), (take knife)
+(drank_juice)
+midday
+(take cup), (take juice)
+(made_breakfast)
+morning
+(take sugar), (take water_jug), (take keetle), (take cloth), (take tea_bag), (use toaster), (take knife), (take butter), (take milk), (take cereal), (take bowl), (take spoon)
+(drank_juice)
+morning
+(take juice), (take cup)
+(made_breakfast)
+morning
+(take sugar), (take creamer), (take coffee), (take water_jug), (take keetle), (take cloth), (take bread), (use toaster), (take butter), (take bowl), (take milk), (take cereal)
+(drank_juice)
+evening
+(take juice), (take cup)
+(taken_medicine)
+evening
+(take medicine)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(counter_wiped)
+evening
+(take cloth)
+(made_breakfast)
+afternoon
+(take coffee), (take milk), (take cup), (take water_jug), (take keetle), (take cloth), (take bread), (take butter), (take knife), (take bowl), (take cereal), (take spoon)
+(made_breakfast)
+morning
+(take bread), (take knife), (take butter), (take water_jug), (take keetle), (take cloth), (take cup), (take coffee), (take sugar), (take bowl), (take cereal), (take spoon)
+(plants_tended)
+morning
+(take water_jug), (use plants)
+(made_breakfast)
+afternoon
+(take sugar), (take cup), (take keetle), (take cloth), (take milk), (take bread), (use toaster), (take knife), (take butter), (take bowl), (take cereal), (take spoon)
+(lunch_packed)
+midday
+(take lunch_bag), (take bread), (take peanut_butter), (take knife)
+(drank_juice)
+evening
+(take juice), (take cup)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(drank_juice)
+midday
+(take juice), (take cup)
+(counter_wiped)
+evening
+(take cloth)
+(counter_wiped)
+afternoon
+(take cloth)
+(counter_wiped)
+afternoon
+(take cloth)
+(lunch_packed)
+morning
+(take plate), (take knife), (take bread), (take lunch_bag)
+(taken_medicine)
+midday
+(take medicine)
+(plants_tended)
+evening
+(take water_jug), (use plants)
+(lunch_packed)
+midday
+(take knife), (take bread), (take peanut_butter), (take lunch_bag)
+(made_breakfast)
+afternoon
+(take cup), (take water_jug), (take keetle), (take cloth), (take creamer), (take sugar), (take coffee), (take bread), (take knife), (take bowl), (take milk), (take spoon)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(counter_wiped)
+morning
+(take cloth)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(plants_tended)
+afternoon
+(take water_jug), (use plants)
+(counter_wiped)
+afternoon
+(take cloth)
+(counter_wiped)
+evening
+(take cloth)
+(counter_wiped)
+midday
+(take cloth)
+(counter_wiped)
+evening
+(take cloth)
+(taken_medicine)
+evening
+(take medicine)
+(drank_juice)
+morning
+(take juice), (take cup)
+(plants_tended)
+evening
+(take water_jug), (use plants)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(lunch_packed)
+midday
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(drank_juice)
+evening
+(take juice), (take cup)
+(plants_tended)
+evening
+(take water_jug), (use plants)
+(watching_movie)
+morning
+(take popcorn), (use microwave)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(made_breakfast)
+morning
+(take keetle), (take cloth), (take cup), (take sugar), (take tea_bag), (take bread), (use toaster), (take knife), (take butter), (take bowl), (take milk), (take spoon)
+(taken_medicine)
+evening
+(take medicine)
+(counter_wiped)
+evening
+(take cloth)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(taken_medicine)
+afternoon
+(take medicine)
+(counter_wiped)
+evening
+(take cloth)
+(made_dinner)
+evening
+(take plate), (take salad_tosser), (take bowl), (take dressing)
+(counter_wiped)
+evening
+(take cloth)
+(made_dinner)
+afternoon
+(take bread), (take cheese), (take bowl), (take salad_tosser), (take plate)
+(drank_juice)
+morning
+(take juice), (take cup)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(made_dinner)
+midday
+(take plate), (take bread), (take cheese)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(counter_wiped)
+evening
+(take cloth)
+(made_breakfast)
+midday
+(take bread), (use toaster), (take knife), (take milk), (take sugar), (take keetle), (take cloth), (take cup), (take bowl), (take milk), (take cereal), (take spoon)
+(made_dinner)
+midday
+(take plate), (take bread), (take cheese), (take bowl), (take salad_tosser), (take plate)
+(watching_movie)
+afternoon
+(take popcorn), (use microwave)
+(taken_medicine)
+afternoon
+(take medicine)
+(made_dinner)
+evening
+(take salad_tosser), (take bowl), (take plate)
+(lunch_packed)
+morning
+(take lunch_bag), (take knife), (take peanut_butter), (take plate)
+(drank_juice)
+morning
+(take cup), (take juice)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(lunch_packed)
+morning
+(take lunch_bag), (take bread), (take peanut_butter), (take plate)
+(counter_wiped)
+evening
+(take cloth)
+(drank_juice)
+midday
+(take cup), (take juice)
+(taken_medicine)
+evening
+(take medicine)
+(counter_wiped)
+midday
+(take cloth)
+(made_breakfast)
+afternoon
+(take bread), (take knife), (take butter), (take milk), (take coffee), (take water_jug), (take keetle), (take cloth), (take milk), (take cereal), (take bowl), (take spoon)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(lunch_packed)
+morning
+(take bread), (take knife), (take plate), (take peanut_butter)
+(lunch_packed)
+morning
+(take lunch_bag), (take bread), (take peanut_butter), (take plate)
+(lunch_packed)
+morning
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(taken_medicine)
+evening
+(take medicine)
+(counter_wiped)
+evening
+(take cloth)
+(drank_juice)
+evening
+(take cup), (take juice)
+(counter_wiped)
+evening
+(take cloth)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_dinner)
+midday
+(take salad_tosser), (take dressing), (take bowl), (take plate)
+(counter_wiped)
+midday
+(take cloth)
+(made_breakfast)
+midday
+(take water_jug), (take keetle), (take cloth), (take sugar), (take tea_bag), (take cup), (take bread), (use toaster), (take knife), (take butter), (take milk), (take cereal)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(made_dinner)
+evening
+(take bowl), (take salad_tosser), (take dressing), (take plate), (take plate), (take cheese)
+(counter_wiped)
+afternoon
+(take cloth)
+(counter_wiped)
+evening
+(take cloth)
+(made_dinner)
+evening
+(take plate), (take dressing), (take bowl), (take salad_tosser)
+(plants_tended)
+afternoon
+(take water_jug), (use plants)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese), (take dressing), (take salad_tosser), (take bowl)
+(plants_tended)
+afternoon
+(take water_jug), (use plants)
+(watching_movie)
+afternoon
+(take popcorn), (use microwave)
+(made_breakfast)
+morning
+(take bread), (take butter), (take knife), (take water_jug), (take keetle), (take cloth), (take cup), (take water_jug), (take keetle), (take cloth), (take tea_bag), (take milk), (take spoon)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take butter), (take water_jug), (take keetle), (take cloth), (take water_jug), (take keetle), (take cloth), (take tea_bag), (take bowl), (take milk), (take cereal)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take knife), (take water_jug), (take keetle), (take cloth), (take cup), (take water_jug), (take cloth), (take milk), (take bowl), (take cereal), (take spoon)
+(drank_juice)
+midday
+(take juice), (take cup)
+(drank_juice)
+morning
+(take cup), (take juice)
+(taken_medicine)
+evening
+(take medicine)
+(taken_medicine)
+evening
+(take medicine)
+(made_breakfast)
+morning
+(take bread), (take butter), (take sugar), (take milk), (take coffee), (take water_jug), (take keetle), (take cloth), (take cereal), (take bowl), (take milk), (take spoon)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(drank_juice)
+morning
+(take cup), (take juice)
+(lunch_packed)
+morning
+(take lunch_bag), (take peanut_butter), (take bread), (take plate)
+(made_breakfast)
+morning
+(use toaster), (take butter), (take knife), (take keetle), (take cloth), (take coffee), (take sugar), (take cup), (take milk), (take cereal), (take bowl), (take spoon)
+(drank_juice)
+morning
+(take juice), (take cup)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_breakfast)
+afternoon
+(take tea_bag), (take water_jug), (take keetle), (take cloth), (take water_jug), (take cloth), (take bread), (use toaster), (take butter), (take knife), (take bowl), (take cereal), (take spoon)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(drank_juice)
+evening
+(take juice), (take cup)
+(drank_juice)
+midday
+(take juice), (take cup)
+(plants_tended)
+afternoon
+(take water_jug), (use plants)
+(drank_juice)
+midday
+(take cup), (take juice)
+(made_dinner)
+evening
+(take bowl), (take salad_tosser), (take plate)
+(taken_medicine)
+evening
+(take medicine)
+(counter_wiped)
+morning
+(take cloth)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take butter), (take tea_bag), (take water_jug), (take keetle), (take cloth), (take sugar), (take milk), (take cup), (take cereal), (take spoon)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_breakfast)
+morning
+(take creamer), (take sugar), (take cup), (take water_jug), (take cloth), (take coffee), (take bread), (take butter), (take knife), (take cereal), (take bowl), (take spoon)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take knife), (take butter), (take cup), (take water_jug), (take keetle), (take cloth), (take tea_bag), (take sugar), (take bowl), (take spoon)
+(watching_movie)
+afternoon
+(take popcorn), (use microwave)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take water_jug), (take keetle), (take cloth), (take cup), (take sugar), (take milk), (take tea_bag), (take milk), (take cereal), (take bowl)
+(drank_juice)
+evening
+(take cup), (take juice)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(taken_medicine)
+evening
+(take medicine)
+(lunch_packed)
+afternoon
+(take lunch_bag), (take bread), (take knife), (take peanut_butter)
+(taken_medicine)
+afternoon
+(take medicine)
+(taken_medicine)
+midday
+(take medicine)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(plants_tended)
+afternoon
+(take water_jug), (use plants)
+(taken_medicine)
+evening
+(take medicine)
+(drank_juice)
+midday
+(take juice), (take cup)
+(made_dinner)
+midday
+(take bowl), (take plate), (take plate), (take bread), (take cheese)
+(counter_wiped)
+morning
+(take cloth)
+(lunch_packed)
+midday
+(take lunch_bag), (take plate), (take bread), (take knife)
+(lunch_packed)
+afternoon
+(take lunch_bag), (take peanut_butter), (take knife), (take bread)
+(watching_movie)
+morning
+(take popcorn), (use microwave)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(made_breakfast)
+afternoon
+(take bread), (use toaster), (take knife), (take milk), (take coffee), (take keetle), (take cloth), (take sugar), (take milk), (take cereal), (take bowl), (take spoon)
+(drank_juice)
+afternoon
+(take juice), (take cup)
+(taken_medicine)
+evening
+(take medicine)
+(counter_wiped)
+morning
+(take cloth)
+(made_breakfast)
+midday
+(take sugar), (take coffee), (take cup), (take water_jug), (take keetle), (take bread), (use toaster), (take knife), (take cereal), (take bowl), (take milk), (take spoon)
+(taken_medicine)
+evening
+(take medicine)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take peanut_butter), (take knife)
+(made_dinner)
+midday
+(take plate), (take bowl), (take salad_tosser)
+(made_breakfast)
+morning
+(use toaster), (take butter), (take knife), (take water_jug), (take keetle), (take cloth), (take coffee), (take creamer), (take bowl), (take cereal), (take milk), (take spoon)
+(plants_tended)
+morning
+(take water_jug), (use plants)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_breakfast)
+morning
+(take bread), (take knife), (take water_jug), (take keetle), (take cloth), (take water_jug), (take keetle), (take cloth), (take tea_bag), (take milk), (take bowl), (take cereal), (take spoon)
+(drank_juice)
+morning
+(take juice), (take cup)
+(drank_juice)
+midday
+(take juice), (take cup)
+(drank_juice)
+evening
+(take juice), (take cup)
+(plants_tended)
+evening
+(take water_jug), (use plants)
+(made_breakfast)
+afternoon
+(take keetle), (take cloth), (take cup), (take water_jug), (take keetle), (take tea_bag), (take bread), (take knife), (take butter), (take cereal), (take bowl), (take milk), (take spoon)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take cup), (take milk), (take water_jug), (take keetle), (take cloth), (take tea_bag), (take bowl), (take milk), (take cereal), (take spoon)
+(drank_juice)
+midday
+(take juice), (take cup)
+(drank_juice)
+morning
+(take juice), (take cup)
+(drank_juice)
+midday
+(take juice), (take cup)
+(made_breakfast)
+evening
+(take bread), (use toaster), (take butter), (take knife), (take tea_bag), (take sugar), (take water_jug), (take keetle), (take cloth), (take milk), (take cereal), (take milk)
+(counter_wiped)
+evening
+(take cloth)
+(made_dinner)
+evening
+(take bread), (take cheese), (take bowl), (take salad_tosser), (take plate)
+(drank_juice)
+morning
+(take cup), (take juice)
+(lunch_packed)
+midday
+(take peanut_butter), (take plate), (take bread), (take knife)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take butter), (take knife), (take sugar), (take cup), (take water_jug), (take keetle), (take cloth), (take milk), (take bowl), (take spoon)
+(made_dinner)
+evening
+(take salad_tosser), (take bowl), (take plate), (take plate), (take cheese)
+(watching_movie)
+midday
+(take popcorn), (use microwave)
+(taken_medicine)
+evening
+(take medicine)
+(lunch_packed)
+afternoon
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(made_dinner)
+midday
+(take plate), (take bread), (take cheese), (take dressing), (take plate), (take salad_tosser)
+(counter_wiped)
+evening
+(take cloth)
+(counter_wiped)
+evening
+(take cloth)
+(watching_movie)
+afternoon
+(take popcorn), (use microwave)
+(taken_medicine)
+evening
+(take medicine)
+(made_breakfast)
+afternoon
+(take bread), (use toaster), (take butter), (take cup), (take sugar), (take tea_bag), (take water_jug), (take keetle), (take cloth), (take milk), (take cereal), (take spoon)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(made_breakfast)
+afternoon
+(take water_jug), (take keetle), (take cloth), (take milk), (take tea_bag), (take cup), (take sugar), (take bread), (use toaster), (take butter), (take cereal), (take bowl)
+(made_breakfast)
+morning
+(take cup), (take creamer), (take sugar), (take water_jug), (take keetle), (take cloth), (use toaster), (take butter), (take knife), (take cereal), (take milk), (take spoon)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(drank_juice)
+afternoon
+(take juice), (take cup)
+(watching_movie)
+afternoon
+(take popcorn), (use microwave)
+(made_breakfast)
+afternoon
+(use toaster), (take butter), (take tea_bag), (take cup), (take water_jug), (take keetle), (take cloth), (take milk), (take bowl), (take cereal), (take milk), (take spoon)
+(lunch_packed)
+morning
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take butter), (take water_jug), (take keetle), (take cloth), (take tea_bag), (take sugar), (take cup), (take bowl), (take milk), (take spoon)
+(counter_wiped)
+evening
+(take cloth)
+(counter_wiped)
+midday
+(take cloth)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(counter_wiped)
+midday
+(take cloth)
+(drank_juice)
+morning
+(take juice), (take cup)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(lunch_packed)
+morning
+(take lunch_bag), (take peanut_butter), (take plate), (take knife)
+(lunch_packed)
+morning
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(lunch_packed)
+afternoon
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(counter_wiped)
+afternoon
+(take cloth)
+(taken_medicine)
+midday
+(take medicine)
+(made_dinner)
+morning
+(take salad_tosser), (take bowl), (take dressing), (take plate)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(plants_tended)
+evening
+(take water_jug), (use plants)
+(drank_juice)
+morning
+(take juice), (take cup)
+(made_dinner)
+evening
+(take bowl), (take plate), (take salad_tosser), (take dressing), (take plate), (take cheese)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(watching_movie)
+afternoon
+(take popcorn), (use microwave)
+(taken_medicine)
+evening
+(take medicine)
+(taken_medicine)
+midday
+(take medicine)
+(counter_wiped)
+evening
+(take cloth)
+(lunch_packed)
+morning
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(lunch_packed)
+evening
+(take lunch_bag), (take knife), (take plate), (take bread)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_dinner)
+afternoon
+(take bowl), (take salad_tosser), (take plate), (take dressing)
+(made_dinner)
+morning
+(take plate), (take bread), (take cheese)
+(counter_wiped)
+morning
+(take cloth)
+(made_breakfast)
+morning
+(take coffee), (take cup), (take creamer), (take water_jug), (take keetle), (take cloth), (use toaster), (take butter), (take cereal), (take milk), (take bowl), (take spoon)
+(made_breakfast)
+morning
+(take bread), (take knife), (take butter), (take sugar), (take milk), (take tea_bag), (take water_jug), (take keetle), (take cloth), (take cup), (take cereal), (take milk)
+(drank_juice)
+midday
+(take cup), (take juice)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_dinner)
+evening
+(take salad_tosser), (take bowl), (take plate)
+(taken_medicine)
+afternoon
+(take medicine)
+(made_breakfast)
+afternoon
+(take bread), (use toaster), (take knife), (take tea_bag), (take sugar), (take water_jug), (take keetle), (take cloth), (take cup), (take milk), (take cereal), (take bowl)
+(taken_medicine)
+afternoon
+(take medicine)
+(taken_medicine)
+evening
+(take medicine)
+(lunch_packed)
+morning
+(take lunch_bag), (take peanut_butter), (take plate), (take knife)
+(lunch_packed)
+morning
+(take knife), (take plate), (take peanut_butter), (take lunch_bag)
+(made_dinner)
+evening
+(take plate), (take bowl), (take salad_tosser), (take dressing)
+(counter_wiped)
+evening
+(take cloth)
+(counter_wiped)
+morning
+(take cloth)
+(drank_juice)
+evening
+(take juice), (take cup)
+(made_dinner)
+midday
+(take plate), (take bread), (take cheese)
+(taken_medicine)
+evening
+(take medicine)
+(taken_medicine)
+evening
+(take medicine)
+(drank_juice)
+evening
+(take juice), (take cup)
+(made_breakfast)
+midday
+(take bread), (use toaster), (take knife), (take butter), (take sugar), (take water_jug), (take cloth), (take coffee), (take cup), (take bowl), (take cereal), (take spoon)
+(made_breakfast)
+morning
+(take water_jug), (take keetle), (take cloth), (take sugar), (take tea_bag), (take cup), (use toaster), (take butter), (take knife), (take milk), (take cereal), (take spoon)
+(lunch_packed)
+morning
+(take plate), (take bread), (take cheese), (take lunch_bag)
+(taken_medicine)
+evening
+(take medicine)
+(taken_medicine)
+afternoon
+(take medicine)
+(made_breakfast)
+evening
+(take bread), (use toaster), (take knife), (take butter), (take water_jug), (take keetle), (take cloth), (take tea_bag), (take cup), (take sugar), (take milk), (take spoon)
+(taken_medicine)
+evening
+(take medicine)
+(made_breakfast)
+morning
+(take water_jug), (take keetle), (take cloth), (take tea_bag), (take cup), (take sugar), (take bread), (use toaster), (take butter), (take knife), (take milk), (take cereal)
+(taken_medicine)
+evening
+(take medicine)
+(taken_medicine)
+evening
+(take medicine)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese)
+(plants_tended)
+afternoon
+(take water_jug), (use plants)
+(made_dinner)
+evening
+(take plate), (take bread), (take cheese), (take bowl), (take plate)
+(made_dinner)
+evening
+(take plate), (take salad_tosser), (take bowl), (take dressing)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(made_breakfast)
+morning
+(take coffee), (take water_jug), (take keetle), (take cloth), (take sugar), (take cup), (take bread), (use toaster), (take butter), (take knife), (take milk), (take spoon)
+(made_breakfast)
+afternoon
+(use toaster), (take butter), (take knife), (take water_jug), (take cloth), (take sugar), (take coffee), (take creamer), (take cereal), (take bowl), (take milk), (take spoon)
+(drank_juice)
+midday
+(take juice), (take cup)
+(drank_juice)
+evening
+(take juice), (take cup)
+(counter_wiped)
+midday
+(take cloth)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(counter_wiped)
+midday
+(take cloth)
+(counter_wiped)
+evening
+(take cloth)
+(made_breakfast)
+morning
+(take bread), (take knife), (take butter), (take sugar), (take water_jug), (take keetle), (take cloth), (take milk), (take cereal), (take milk), (take bowl), (take spoon)
+(made_dinner)
+evening
+(take bowl), (take plate), (take salad_tosser)
+(plants_tended)
+midday
+(take water_jug), (use plants)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take knife), (take butter), (take milk), (take coffee), (take sugar), (take water_jug), (take cloth), (take cup), (take bowl), (take spoon)
+(lunch_packed)
+afternoon
+(take lunch_bag), (take plate), (take bread), (take cheese)
+(made_dinner)
+evening
+(take salad_tosser), (take bowl), (take plate)
+(counter_wiped)
+afternoon
+(take cloth)
+(counter_wiped)
+midday
+(take cloth)
+(made_breakfast)
+midday
+(take cup), (take tea_bag), (take sugar), (take water_jug), (take keetle), (take cloth), (use toaster), (take butter), (take cereal), (take milk), (take bowl), (take spoon)
+(made_breakfast)
+midday
+(take bread), (use toaster), (take butter), (take cup), (take tea_bag), (take milk), (take water_jug), (take keetle), (take bowl), (take cereal), (take milk), (take spoon)
+(lunch_packed)
+midday
+(take plate), (take bread), (take peanut_butter), (take knife)
+(counter_wiped)
+evening
+(take cloth)
+(watching_movie)
+evening
+(take popcorn), (use microwave)
+(plants_tended)
+evening
+(take water_jug), (use plants)
+(made_breakfast)
+afternoon
+(take cup), (take milk), (take sugar), (take coffee), (take water_jug), (take keetle), (take bread), (use toaster), (take butter), (take knife), (take milk), (take bowl)
+(made_breakfast)
+afternoon
+(take milk), (take water_jug), (take keetle), (take cup), (take coffee), (take bread), (use toaster), (take knife), (take butter), (take milk), (take bowl), (take spoon)
+(made_breakfast)
+morning
+(take bread), (use toaster), (take butter), (take coffee), (take water_jug), (take keetle), (take cup), (take sugar), (take milk), (take cereal), (take bowl), (take spoon)
+(drank_juice)
+afternoon
+(take cup), (take juice)
+(made_breakfast)
+evening
+(take bread), (take butter), (take coffee), (take water_jug), (take keetle), (take cloth), (take creamer), (take cup), (take sugar), (take milk), (take bowl), (take spoon)
+(made_breakfast)
+afternoon
+(take sugar), (take creamer), (take keetle), (take cup), (take coffee), (take bread), (use toaster), (take knife), (take butter), (take milk), (take cereal), (take spoon)

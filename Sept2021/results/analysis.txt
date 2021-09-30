@@ -1,0 +1,36 @@
+Exp no: fullExp1
+accuracy: 0.748
+Exp no: fullExp2
+accuracy: 0.782
+Exp no: fullExp3
+accuracy: 0.746
+Exp no: 90Exp1
+accuracy: 0.806
+Exp no: 90Exp2
+accuracy: 0.806
+Exp no: 90Exp3
+accuracy: 0.806
+Exp no: 80Exp1
+accuracy: 0.758
+Exp no: 80Exp2
+accuracy: 0.742
+Exp no: 80Exp3
+accuracy: 0.746
+Exp no: 70Exp1
+accuracy: 0.728
+Exp no: 70Exp2
+accuracy: 0.742
+Exp no: 70Exp3
+accuracy: 0.728
+Exp no: 60Exp1
+accuracy: 0.658
+Exp no: 60Exp2
+accuracy: 0.7
+Exp no: 60Exp3
+accuracy: 0.706
+Exp no: 50Exp1
+accuracy: 0.602
+Exp no: 50Exp2
+accuracy: 0.642
+Exp no: 50Exp3
+accuracy: 0.618

@@ -1,0 +1,9 @@
+% -------- Queries --------
+query(iMakeBreakfast(tom)).
+query(iPackLunch(tom)).
+query(iMakeDinner(tom)).
+query(iTakeMedicine(tom)).
+query(iWatchMovie(tom)).
+query(iWipeCounter(tom)).
+query(iTendPlants(tom)).
+query(iDrinkJuice(tom)).
